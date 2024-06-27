@@ -18,7 +18,7 @@ Number Guessing Game Built with vanilla javascript
 
   - ##### Desktop Layout
 
-![](Screenshot_1.png)
+![](Screenshot_1.jpeg)
 
 
 ### Links
