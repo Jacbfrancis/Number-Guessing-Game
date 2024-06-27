@@ -23,7 +23,7 @@ Number Guessing Game Built with vanilla javascript
 
 ### Links
 
-- Live Site URL: [live Site](https://js-number-guessing-game.netlify.app/)
+- Live Site URL: [Number Guessing Game](https://js-number-guessing-game.netlify.app/)
 
 ## My process
 
